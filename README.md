@@ -2,7 +2,7 @@
   <img src="./assets/banner.svg" alt="Xioleni Salazar — UX/UI Designer and Frontend Developer" width="100%" />
 </p>
 
-<h1 align="center">Xioleni del Mar Salazar González</h1>
+<h1 align="center">Xioleni Salazar</h1>
 <h3 align="center">Diseñadora UX/UI · Diseñadora web · Desarrolladora frontend</h3>
 
 <p align="center">
