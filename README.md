@@ -34,10 +34,14 @@ Soy profesional en Diseño Gráfico y Web, UX/UI y Programación. En mis proyect
 
 Los proyectos de lotería son demostraciones: muestran datos históricos y no predicen sorteos; la plataforma no procesa apuestas ni pagos.
 
+## Idiomas
+
+Español · Portugués · Inglés intermedio.
+
 ## Oportunidades
 
 Disponible para oportunidades en **UX/UI, diseño web y desarrollo frontend**. Para conocer más sobre mi trabajo, visita mi [portafolio](https://xioleni.com) o contáctame por [LinkedIn](https://www.linkedin.com/in/xioleni-del-mar-salazar-gonzalez-a21807393/).
 
 ## English
 
-UX/UI and Frontend Designer focused on clear, responsive web experiences. I combine interface design with hands-on development using React, TypeScript, and JavaScript. Open to UX/UI, web design, and frontend opportunities. [Portfolio](https://xioleni.com) · [LinkedIn](https://www.linkedin.com/in/xioleni-del-mar-salazar-gonzalez-a21807393/)
+UX/UI Designer and Frontend Developer focused on clear, responsive web experiences. I combine interface design with hands-on development using React, TypeScript, and JavaScript. I speak Spanish and Portuguese, and my English level is intermediate. Open to UX/UI, web design, and frontend opportunities. [Portfolio](https://xioleni.com) · [LinkedIn](https://www.linkedin.com/in/xioleni-del-mar-salazar-gonzalez-a21807393/)
