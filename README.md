@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <a href="https://xioleni.com">Portafolio</a> ·
+  <a href="https://xioleni.com/">Portafolio</a> ·
   <a href="https://www.linkedin.com/in/xioleni-del-mar-salazar-gonzalez-a21807393/">LinkedIn</a>
 </p>
 
@@ -40,8 +40,8 @@ Español · Portugués · Inglés intermedio.
 
 ## Oportunidades
 
-Disponible para oportunidades en **UX/UI, diseño web y desarrollo frontend**. Para conocer más sobre mi trabajo, visita mi [portafolio](https://xioleni.com) o contáctame por [LinkedIn](https://www.linkedin.com/in/xioleni-del-mar-salazar-gonzalez-a21807393/).
+Disponible para oportunidades en **UX/UI, diseño web y desarrollo frontend**. Para conocer más sobre mi trabajo, visita mi [portafolio](https://xioleni.com/) o contáctame por [LinkedIn](https://www.linkedin.com/in/xioleni-del-mar-salazar-gonzalez-a21807393/).
 
 ## English
 
-UX/UI Designer and Frontend Developer focused on clear, responsive web experiences. I combine interface design with hands-on development using React, TypeScript, and JavaScript. I speak Spanish and Portuguese, and my English level is intermediate. Open to UX/UI, web design, and frontend opportunities. [Portfolio](https://xioleni.com) · [LinkedIn](https://www.linkedin.com/in/xioleni-del-mar-salazar-gonzalez-a21807393/)
+UX/UI Designer and Frontend Developer focused on clear, responsive web experiences. I combine interface design with hands-on development using React, TypeScript, and JavaScript. I speak Spanish and Portuguese, and my English level is intermediate. Open to UX/UI, web design, and frontend opportunities. [Portfolio](https://xioleni.com/) · [LinkedIn](https://www.linkedin.com/in/xioleni-del-mar-salazar-gonzalez-a21807393/)
