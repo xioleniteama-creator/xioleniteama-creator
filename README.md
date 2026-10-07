@@ -2,35 +2,42 @@
   <img src="./assets/banner.svg" alt="Xioleni Salazar — UX/UI Designer and Frontend Developer" width="100%" />
 </p>
 
-<h2 align="center">UX/UI Designer · Frontend Developer</h2>
+<h1 align="center">Xioleni del Mar Salazar González</h1>
+<h3 align="center">Diseñadora UX/UI · Diseñadora web · Desarrolladora frontend</h3>
 
 <p align="center">
-  I design and build clear, responsive digital experiences, connecting thoughtful interfaces with working web products.
+  Diseño y desarrollo interfaces digitales claras, adaptables y cuidadas en sus detalles. Conecto diseño de producto, experiencia de usuario e implementación frontend para convertir ideas en experiencias web funcionales.
 </p>
 
 <p align="center">
-  Diseño y desarrollo experiencias digitales claras y adaptables, desde los flujos de usuario hasta su implementación web.
+  <a href="https://xioleni.com">Portafolio</a> ·
+  <a href="https://www.linkedin.com/in/xioleni-del-mar-salazar-gonzalez-a21807393/">LinkedIn</a>
 </p>
 
-<p align="center"><strong>Open to UX/UI and Frontend opportunities · Disponible para oportunidades en UX/UI y Frontend</strong></p>
+## Perfil profesional
 
-### What I work with
+Soy profesional en Diseño Gráfico y Web, UX/UI y Programación. En mis proyectos trabajo desde la estructura y la jerarquía visual hasta la implementación frontend, con atención a la navegación, el diseño responsive y la consistencia de la interfaz.
 
-`React` · `TypeScript` · `JavaScript` · `HTML` · `CSS` · `Node.js` · `Express`
+### Áreas de trabajo
 
-My work brings together UX/UI, responsive web design, frontend development, and practical product thinking.
+- **UX/UI y diseño web:** diseño de interfaces, organización de contenido, flujos de interacción y experiencias responsive.
+- **Frontend:** React, TypeScript, JavaScript, HTML y CSS.
+- **Desarrollo web:** creación de interfaces funcionales y componentes reutilizables; experiencia con Node.js y Express.
 
-### Selected projects
+## Proyectos seleccionados
 
-| Project | What it shows | Preview |
-| --- | --- | --- |
-| [BeautyCart](https://github.com/xioleniteama-creator/beauty-cart) | Responsive beauty storefront, product discovery, filters, and a persistent demo cart | [Open demo](https://xioleni.com/proyectos/plataforma-maquillaje/) |
-| [Plataforma de loterías](https://github.com/xioleniteama-creator/plataforma-loterias) | Lottery product UI, number selection, and an interactive demo ticket | [Open demo](https://xioleni.com/proyectos/plataforma-loterias/) |
-| [Analizador de loterías](https://github.com/xioleniteama-creator/analizador-loterias) | Historical data exploration, filters, and statistical visualizations | [Open demo](https://xioleni.com/proyectos/analizador-loterias/) |
+| Proyecto | Enfoque | Tecnologías | Enlace |
+| --- | --- | --- | --- |
+| [BeautyCart](https://github.com/xioleniteama-creator/beauty-cart) | Tienda demo responsive con catálogo, filtros y carrito persistente | HTML · CSS · JavaScript | [Ver demo](https://xioleni.com/proyectos/plataforma-maquillaje/) |
+| [Plataforma de loterías](https://github.com/xioleniteama-creator/plataforma-loterias) | Prototipo UX/UI con selección de números y flujo de ticket demo | HTML · CSS · JavaScript | [Ver demo](https://xioleni.com/proyectos/plataforma-loterias/) |
+| [Analizador de loterías](https://github.com/xioleniteama-creator/analizador-loterias) | Exploración de datos históricos con filtros y visualizaciones | HTML · CSS · JavaScript · Chart.js | [Ver demo](https://xioleni.com/proyectos/analizador-loterias/) |
 
-These lottery projects are demonstrations. Their historical patterns do not predict future draws, and the platform prototype does not process payments.
+Los proyectos de lotería son demostraciones: muestran datos históricos y no predicen sorteos; la plataforma no procesa apuestas ni pagos.
 
-### Find me
+## Oportunidades
 
-- Portfolio: [xioleni.com](https://xioleni.com)
-- LinkedIn: [Xioleni del Mar Salazar González](https://www.linkedin.com/in/xioleni-del-mar-salazar-gonzalez-a21807393/?isSelfProfile=true)
+Disponible para oportunidades en **UX/UI, diseño web y desarrollo frontend**. Para conocer más sobre mi trabajo, visita mi [portafolio](https://xioleni.com) o contáctame por [LinkedIn](https://www.linkedin.com/in/xioleni-del-mar-salazar-gonzalez-a21807393/).
+
+## English
+
+UX/UI and Frontend Designer focused on clear, responsive web experiences. I combine interface design with hands-on development using React, TypeScript, and JavaScript. Open to UX/UI, web design, and frontend opportunities. [Portfolio](https://xioleni.com) · [LinkedIn](https://www.linkedin.com/in/xioleni-del-mar-salazar-gonzalez-a21807393/)
